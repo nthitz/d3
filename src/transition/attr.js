@@ -1,6 +1,6 @@
 import "../core/ns";
 import "../interpolate/interpolate";
-import "../interpolate/transform";
+// import "../interpolate/transform";
 import "transition";
 import "tween";
 

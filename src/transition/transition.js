@@ -37,7 +37,7 @@ d3.transition.prototype = d3_transitionPrototype;
 
 import "select";
 import "selectAll";
-import "filter";
+// import "filter";
 import "attr";
 import "style";
 import "text";
@@ -46,7 +46,7 @@ import "ease";
 import "delay";
 import "duration";
 import "each";
-import "subtransition";
+// import "subtransition";
 import "tween";
 
 function d3_transitionNamespace(name) {

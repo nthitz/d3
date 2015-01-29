@@ -1,5 +1,5 @@
 import "xhr";
-import "text";
+// import "text";
 import "json";
-import "html";
-import "xml";
+// import "html";
+// import "xml";
